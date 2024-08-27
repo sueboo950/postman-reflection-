@@ -1,6 +1,6 @@
 # postman-reflection
 My Observation on the process using the postman website these are the things I have learned.
-- I learned how to set up the collections folder that makes me able to find group request.   1
+- I learned how to set up the collections folder that makes me able to find group request.   
 - I learned how to get the request and watch the link used to avoid the error 404 when requesting an item.
 - I learned how to share and request as a link in the readme.
 - I learned that the connection speed and throttle issues plays a huge role in how fast the request is received.
