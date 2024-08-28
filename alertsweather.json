@@ -1,0 +1,53 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "app_temp": 30.3,
+            "aqi": 46,
+            "city_name": "Bogalusa",
+            "clouds": 0,
+            "country_code": "US",
+            "datetime": "2024-08-28:01",
+            "dewpt": 20,
+            "dhi": 0,
+            "dni": 0,
+            "elev_angle": -7.54,
+            "ghi": 0,
+            "gust": null,
+            "h_angle": -90,
+            "lat": 30.7733,
+            "lon": -89.8653,
+            "ob_time": "2024-08-28 01:00",
+            "pod": "n",
+            "precip": 0,
+            "pres": 1013.2,
+            "rh": 60,
+            "slp": 1017.3,
+            "snow": 0,
+            "solar_rad": 0,
+            "sources": [
+                "KBXA",
+                "radar",
+                "satellite"
+            ],
+            "state_code": "LA",
+            "station": "KBXA",
+            "sunrise": "11:33",
+            "sunset": "00:26",
+            "temp": 28.5,
+            "timezone": "America/Chicago",
+            "ts": 1724806819,
+            "uv": 0,
+            "vis": 16,
+            "weather": {
+                "description": "Clear sky",
+                "code": 800,
+                "icon": "c01n"
+            },
+            "wind_cdir": "N",
+            "wind_cdir_full": "north",
+            "wind_dir": 0,
+            "wind_spd": 1
+        }
+    ]
+}
