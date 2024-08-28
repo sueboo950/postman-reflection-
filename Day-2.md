@@ -6,12 +6,12 @@ I observed that the weather is hard to predict.
 - This api required a key to use it as one of the parameters along with other data to pull the specific information.
 
 ## Current Weather
-The speed was 221ms the file size 1.17kb with the status of 200 ok
+The speed was 221ms the file size 1.17kb with the status of 200 ok. I observe that the temperature was in fahrenheit.
 [Request Link](https://web.postman.co/workspace/My-Workspace~d72cb444-ecce-453b-8b36-f2943e24ce6f/request/37930810-ac12014b-6279-4c0b-b2b5-e3ec7da099a3?action=share&source=copy-link&creator=37930810&active-environment=d999b440-127f-4229-b1cd-6bd0b071f762)
 ![Screenshot](https://res.cloudinary.com/dyzxyc6e9/image/upload/v1724809764/Screenshot_2024-08-27_204731_bjmx3y.png)
 
 ## Alerts
-The speed was 173ms the file size was 1.16kb with the status of 200 ok
+The speed was 173ms the file size was 1.16kb with the status of 200 ok.In my observation i did not use the fahrenheit measurement because it was not required.
 [Request Link](https://web.postman.co/workspace/My-Workspace~d72cb444-ecce-453b-8b36-f2943e24ce6f/request/37930810-c5cb3e73-0170-4814-bbc1-003216e516a7?action=share&source=copy-link&creator=37930810&active-environment=d999b440-127f-4229-b1cd-6bd0b071f762)
 ![Screenshot](https://res.cloudinary.com/dyzxyc6e9/image/upload/v1724809764/Screenshot_2024-08-27_204759_sizs8m.png)
 
